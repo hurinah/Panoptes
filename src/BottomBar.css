@@ -1,0 +1,16 @@
+.BottomBar {
+    background-color: #018786;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.BottomBar h5 {
+    margin: 2px;
+    font-size: 14px;
+    font-style:italic;
+}
+.BottomBar p {
+    margin: 0;
+    font-size: 12px;
+}

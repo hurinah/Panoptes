@@ -14,25 +14,26 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ace3e3;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #018786;
+  text-shadow: 2px 2px 0 rgba(255, 255, 255, 255);
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.file-input-container {
+  display: flex;
+  align-items: center;
+}
+
+.file-input-container input[type="file"] {
+  margin-right: 10px;
 }

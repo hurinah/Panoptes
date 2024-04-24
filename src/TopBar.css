@@ -1,0 +1,17 @@
+.TopBar {
+    background-color: #018786;
+    color: white;
+    padding: 1px 0;
+    text-align: center;
+
+}
+
+.TopBar h1 {
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+
+.TopBar h4 {
+    margin-top: 5px;
+    text-shadow: 2px 2px 0 #006b6b;
+}
